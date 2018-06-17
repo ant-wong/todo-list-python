@@ -1,4 +1,4 @@
-Todo app buitl with Django/Python
+Todo app built with Django/Python
 ==============================
 Learning Python and Django framework through building a CRUD application
 
